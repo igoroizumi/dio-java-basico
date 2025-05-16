@@ -1,5 +1,3 @@
-package edu.igor.primeirasemana.smartTv;
-
 public class Usuario {
     public static void main(String[] args) throws Exception {
 

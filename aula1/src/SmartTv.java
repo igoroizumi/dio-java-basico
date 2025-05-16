@@ -1,4 +1,4 @@
-package edu.igor.primeirasemana.smartTv;
+
 
 public class SmartTv {
     boolean ligada = false;
